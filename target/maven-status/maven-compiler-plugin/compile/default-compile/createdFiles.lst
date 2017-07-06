@@ -1,0 +1,9 @@
+com\myyoga\models\YogaAsanas.class
+com\myyoga\rest\Login.class
+com\myyoga\rest\Utility.class
+com\myyoga\rest\YogaDetails.class
+com\myyoga\rest\UserList.class
+com\myyoga\models\User.class
+com\myyoga\rest\Registration.class
+com\myyoga\rest\Constants.class
+com\myyoga\rest\DBConnection.class
